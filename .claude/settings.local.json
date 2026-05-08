@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Content \"C:\\\\Users\\\\amark\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-amark-turbose\\\\cca41027-7f5d-4d6a-b6b4-7ee8a2b04d41\\\\tasks\\\\bsf4pmwww.output\" -Wait -Tail 20)"
+    ]
+  }
+}
